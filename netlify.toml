@@ -1,0 +1,6 @@
+[[redirects]]
+  # Redirect all SPA routes to index.html
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
